@@ -72,13 +72,11 @@ This repository contains an analysis of an HR Management Dashboard, which provid
 ---
 
 ## Tools Used
-- **Data Visualization**: Power BI (as inferred from the screenshots).
+- **Data Visualization**: MS excel .
 - **Data Analysis**: Insights derived from multi-year HR data.
 
 ---
 
-## Contributors
-This analysis was created for repository documentation purposes based on visual findings from the provided dashboard screenshots.
 
 ---
 
